@@ -1,2 +1,3 @@
-# Mines
-Mines bir oyun ama yapım aşamasında ve kaynak kodu "src" klasöründe.
+# Floblo
+Floblo bir oyun ama yapım aşamasında ve kaynak kodu "src" klasöründe...
+:)
